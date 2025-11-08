@@ -1,9 +1,9 @@
 // ============================================
 // HABIT TRACKER CLI - CHALLENGE 3
 // ============================================
-// NAMA: adi
-// KELAS: wph rep
-// TANGGAL: 2025 11 04
+// NAMA: [Isi nama Anda]
+// KELAS: [Isi kelas Anda]
+// TANGGAL: [Isi tanggal pengerjaan]
 // ============================================
 
 const readline = require('readline');
